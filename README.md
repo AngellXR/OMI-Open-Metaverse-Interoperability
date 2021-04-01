@@ -1,4 +1,4 @@
-# OpenInventory
+# Open Metaverse Interopability Protocol 
 
 ---
 
