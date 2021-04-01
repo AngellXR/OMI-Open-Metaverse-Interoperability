@@ -1,4 +1,4 @@
-# Open Metaverse Interopability Protocol 
+# Open Metaverse Interoperability Protocol 
 
 ---
 
