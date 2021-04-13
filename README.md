@@ -1,4 +1,4 @@
-# Open Metaverse Interoperability Protocol 
+# Open Metaverse Interoperability Protocol - sunsetting for new omigroup federated page 
 
 ---
 
